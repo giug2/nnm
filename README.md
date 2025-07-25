@@ -8,9 +8,9 @@ Il progetto utilizza il dataset Street View House Numbers (SVHN), una raccolta d
 - MATLAB (Deep Learning Toolbox)
 - Rete pre-addestrata: ResNet-18
 - Transfer Learning
+> 📎 *Per eseguire il progetto è necessario MATLAB con il Deep Learning Toolbox installato.*
 ## Risultati
 - **Accuratezza finale** sul set di test: **94.93%**
 - **Tempo di training**: ~5 ore e 20 minuti
-  
-  
-> 📎 *Per eseguire il progetto è necessario MATLAB con il Deep Learning Toolbox installato.*
+## Autore
+[Gaglione Giulia](https://github.com/giug2)
